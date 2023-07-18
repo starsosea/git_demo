@@ -3,4 +3,4 @@ xiaoyu
 xiaoyu
 xiaoyu
 yuze
-xiaodu  master test
+xiaodu  master
